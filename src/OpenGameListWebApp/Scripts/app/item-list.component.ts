@@ -50,7 +50,7 @@ export class ItemListComponent implements OnInit {
                 this.title = "Most Viewed Items";
                 s = this.itemService.getMostViewed();
                 break;
-            case "ramdon":
+            case "random":
                 this.title = "Random Items";
                 s = this.itemService.getRandom();
                 break;

@@ -256,3 +256,4 @@ paket-files/
 *.sln.iml
 /src/OpenGameListWebApp/wwwroot/app
 /src/OpenGameListWebApp/typings
+/src/OpenGameListWebApp/wwwroot/js
